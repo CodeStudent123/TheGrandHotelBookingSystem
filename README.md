@@ -62,7 +62,7 @@ Check out the live version here:
 
 ## 📸 Screenshots
 
-| Preview | |
+Preview
 |--------|--|
 | ![Homepage](https://imgur.com/GaNJrYq.png) | ![Rooms](https://imgur.com/kRChqWF.png) |
 | ![Booking Successful](https://imgur.com/Z4HRPPC.png) | ![Admin Dashboard](https://imgur.com/B0pnd5y.png) |
