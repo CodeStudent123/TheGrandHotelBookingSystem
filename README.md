@@ -58,6 +58,16 @@ Check out the live version here:
   - Message or Inquiry  
 - Submits data via `POST` to `contact.php`.
 
+## 📋 Task Assignments 
+
+Chad - PHP, MySQL and the Frontend. 
+
+Prince - PHP and MySQL. 
+
+Sean - HTML and CSS. 
+
+Mirko - HTML and CSS.
+
 ---
 
 ## 📸 Screenshots
